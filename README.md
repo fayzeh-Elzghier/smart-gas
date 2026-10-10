@@ -1,18 +1,19 @@
 # Smart Gas
 
-Animated exhibition website for the Smart Gas patent application project by Fayzeh Elzogheir and Malak Obaid, Birzeit University.
+Public exhibition introduction for the Smart Gas invention project by Fayzeh Elzogheir and Malak Obaid, Birzeit University.
 
 ## Website
 
-A self-contained HTML/CSS/JavaScript page with a conceptual valve illustration, interactive closure animation, exhibition display mode, responsive layout, and team contact links. Animations respect reduced-motion settings. The illustration is conceptual and does not demonstrate tested hardware performance.
+Self-contained HTML/CSS/JavaScript with English and Arabic, a six-scene animated promotional presentation, conceptual shield artwork, responsive layout, and team contact links. Animations respect reduced-motion preferences.
 
-## Publish with GitHub Pages
+The public page introduces the project's purpose and team. It contains no original application drawings, internal component specifications, implementation logic, or technical simulation. The detailed project presentation is maintained separately.
 
-1. Open repository **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select **main** and **/ (root)**, then **Save**.
-4. Wait for GitHub to confirm publication and use the URL shown in Pages settings.
+The Ministry of National Economy received patent application documents on 22 April 2026 under request no. 431. This receipt does not mean a patent has been granted.
 
-## Preview locally
+## GitHub Pages
 
-Open `index.html` in a browser. Google Fonts requires an internet connection; system fonts provide the fallback.
+Open Settings → Pages. Choose Deploy from a branch, select main and / (root), and Save. Use the publication URL shown by GitHub after deployment succeeds.
+
+## Local preview
+
+Open index.html in a browser. Google Fonts uses an internet connection, with system font fallbacks.
